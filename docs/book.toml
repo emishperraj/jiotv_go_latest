@@ -1,0 +1,10 @@
+[book]
+authors = ["Mohammed Rabil"]
+language = "en"
+multilingual = false
+src = "."
+title = "JioTV Go"
+
+[output.html]
+git-repository-url = "https://github.com/jiotv-go/jiotv_go"
+edit-url-template = "https://github.com/jiotv-go/jiotv_go/edit/main/docs/{path}"
