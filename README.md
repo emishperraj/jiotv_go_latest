@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JioTV Go 📺
 
 JioTV Go, an exciting project that allows you to stream Live TV channels on the web and IPTV. It's a web wrapper around the JioTV Android app, utilizing the same API to fetch and stream channels.
@@ -78,4 +79,6 @@ We wholeheartedly welcome your contributions. If you have ideas, fixes, or enhan
 ## **License: Attribution 4.0 International (CC BY 4.0)**
 
 **Embrace the Spirit of Free Software!** JioTV Go is open-source and free to use. We're committed to keeping it accessible to everyone. If you come across any unauthorized attempts to sell this project, please report them to [me](mailto:mail@rabil.me) so we can take swift action. Your support is essential in safeguarding our project's values. 🙌📜💼
+=======
+>>>>>>> fc33f8dd9df43cc3e55d77e01d424ecdd5e061c7
 # jiotv_go_latest
