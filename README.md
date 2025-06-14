@@ -19,9 +19,11 @@ Features 🌟
 💻 Command-line interface for server management and self-update.
 🔄 Background start and stop feature.
 
-git clone https://github.com/emishperraj/jiotv_go_latest.git
 
+Steps:
 apt update
+
+git clone https://github.com/emishperraj/jiotv_go_latest.git
 
 apt  install docker-compose &&  apt  install docker.io
 
