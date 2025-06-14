@@ -20,7 +20,11 @@ Features 🌟
 🔄 Background start and stop feature.
 
 git clone https://github.com/emishperraj/jiotv_go_latest.git
+
 apt update
+
 apt  install docker-compose &&  apt  install docker.io
+
 cd jiotv_go_latest
+
 docker-compose -f docker-compose.yml up -d
